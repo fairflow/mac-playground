@@ -40,3 +40,5 @@ sysdrawing-coregraphics/bin
 sysdrawing-coregraphics/lib
 sysdrawing-coregraphics/obj
 sysdrawing-coregraphics/sysdrawing-coregraphics.userprefs
+.vs
+FormsTest.app.csprojAssemblyReference.cache
