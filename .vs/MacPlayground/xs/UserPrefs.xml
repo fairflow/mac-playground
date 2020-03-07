@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{7777BF55-B639-4078-BDD4-A1B541B89274}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="FormsTest/Forms/MainForm.cs" Line="134" Column="7" />
+      <File FileName="mono/mcs/class/System.Windows.Forms/System.Windows.Forms.CocoaInternal/XplatUICocoa.cs" Line="420" Column="1" />
+      <File FileName="mono/mcs/class/System.Windows.Forms/System.Windows.Forms.CocoaInternal/XplatUICocoa.cs" Line="420" Column="1" />
+      <File FileName="FormsTest/Controls/ControlStatusBar.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MacPlayground" expanded="True">
+            <Node name="FormsTest" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Controls" expanded="True" />
+              <Node name="Forms" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True" />
+            </Node>
+            <Node name="FormsTest.app" expanded="True">
+              <Node name="GettingStarted" selected="True" />
+              <Node name="References" expanded="True" />
+            </Node>
+            <Node name="System.Windows.Forms-net_4_5" expanded="True">
+              <Node name="System.Windows.Forms.CocoaInternal" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FormsTest.app PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Xamarin - Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FormsTest PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

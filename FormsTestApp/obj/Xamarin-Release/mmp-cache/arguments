@@ -1,0 +1,51 @@
+# Version: 6.10.0.21 (xcode11.3): 02c4b3bdc)
+# [first argument, ignore] # /Library/Frameworks/Xamarin.Mac.framework/Versions/6.10.0.21/lib/mmp/mmp.exe
+/Library/Frameworks/Xamarin.Mac.framework/Versions/6.10.0.21/lib/mmp/mmp.exe \
+	/verbose \
+	/output:/Users/matthew/Projects/bin/Xamarin-Release/ \
+	/name:FormsTestApp \
+	' /profile:Xamarin.Mac,Version=v4.5,Profile=Full' \
+	' /arch:x86_64' \
+	' --http-message-handler=NSUrlSessionHandler' \
+	' /minos=10.11' \
+	' /sgen-conc' \
+	' /nolink' \
+	'\"/i18n:cjk,mideast,other,rare,west\"' \
+	/assembly:/Users/matthew/Projects/bin/Xamarin-Release/FormsTest.exe \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/4.5/mscorlib.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/4.5/System.Core.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/4.5/System.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/4.5/Facades/System.Drawing.Common.dll \
+	/assembly:/Users/matthew/Projects/64Bit/mac-playground/bin/Xamarin-Release/System.Drawing.dll \
+	/assembly:/Users/matthew/Projects/64Bit/mac-playground/mono/mcs/class/System.Windows.Forms/bin/Xamarin-Release/System.Windows.Forms.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/reference/full/Xamarin.Mac.dll \
+	/assembly:/Users/matthew/Projects/64Bit/mac-playground/bin/Xamarin-Release/System.Drawing.dll \
+	/assembly:/Users/matthew/Projects/64Bit/mac-playground/mono/mcs/class/System.Windows.Forms/bin/Xamarin-Release/System.Windows.Forms.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/reference/full/Xamarin.Mac.dll \
+	/assembly:/Users/matthew/Projects/bin/Xamarin-Release/MacApi.dll \
+	/assembly:/Users/matthew/Projects/64Bit/mac-playground/mono/mcs/class/System.Windows.Forms/bin/Xamarin-Release/Mono.WebBrowser.dll \
+	/assembly:/Users/matthew/Projects/64Bit/mac-playground/mono/mcs/class/System.Windows.Forms/bin/Xamarin-Release/sk/System.Windows.Forms.resources.dll \
+	/assembly:/Users/matthew/Projects/64Bit/mac-playground/mono/mcs/class/System.Windows.Forms/bin/Xamarin-Release/pl/System.Windows.Forms.resources.dll \
+	/assembly:/Users/matthew/Projects/64Bit/mac-playground/mono/mcs/class/System.Windows.Forms/bin/Xamarin-Release/sv/System.Windows.Forms.resources.dll \
+	/assembly:/Users/matthew/Projects/64Bit/mac-playground/mono/mcs/class/System.Windows.Forms/bin/Xamarin-Release/da/System.Windows.Forms.resources.dll \
+	/assembly:/Users/matthew/Projects/64Bit/mac-playground/mono/mcs/class/System.Windows.Forms/bin/Xamarin-Release/no/System.Windows.Forms.resources.dll \
+	/assembly:/Users/matthew/Projects/64Bit/mac-playground/mono/mcs/class/System.Windows.Forms/bin/Xamarin-Release/ja/System.Windows.Forms.resources.dll \
+	/assembly:/Users/matthew/Projects/64Bit/mac-playground/mono/mcs/class/System.Windows.Forms/bin/Xamarin-Release/el/System.Windows.Forms.resources.dll \
+	/assembly:/Users/matthew/Projects/64Bit/mac-playground/mono/mcs/class/System.Windows.Forms/bin/Xamarin-Release/it/System.Windows.Forms.resources.dll \
+	/assembly:/Users/matthew/Projects/64Bit/mac-playground/mono/mcs/class/System.Windows.Forms/bin/Xamarin-Release/cs/System.Windows.Forms.resources.dll \
+	/assembly:/Users/matthew/Projects/64Bit/mac-playground/mono/mcs/class/System.Windows.Forms/bin/Xamarin-Release/ru/System.Windows.Forms.resources.dll \
+	/assembly:/Users/matthew/Projects/64Bit/mac-playground/mono/mcs/class/System.Windows.Forms/bin/Xamarin-Release/pt/System.Windows.Forms.resources.dll \
+	/assembly:/Users/matthew/Projects/64Bit/mac-playground/mono/mcs/class/System.Windows.Forms/bin/Xamarin-Release/zh/System.Windows.Forms.resources.dll \
+	/assembly:/Users/matthew/Projects/64Bit/mac-playground/mono/mcs/class/System.Windows.Forms/bin/Xamarin-Release/hu/System.Windows.Forms.resources.dll \
+	/assembly:/Users/matthew/Projects/64Bit/mac-playground/mono/mcs/class/System.Windows.Forms/bin/Xamarin-Release/nl/System.Windows.Forms.resources.dll \
+	/assembly:/Users/matthew/Projects/64Bit/mac-playground/mono/mcs/class/System.Windows.Forms/bin/Xamarin-Release/de/System.Windows.Forms.resources.dll \
+	/assembly:/Users/matthew/Projects/64Bit/mac-playground/mono/mcs/class/System.Windows.Forms/bin/Xamarin-Release/ko/System.Windows.Forms.resources.dll \
+	/assembly:/Users/matthew/Projects/64Bit/mac-playground/mono/mcs/class/System.Windows.Forms/bin/Xamarin-Release/fr/System.Windows.Forms.resources.dll \
+	/assembly:/Users/matthew/Projects/64Bit/mac-playground/mono/mcs/class/System.Windows.Forms/bin/Xamarin-Release/es/System.Windows.Forms.resources.dll \
+	/assembly:/Users/matthew/Projects/64Bit/mac-playground/mono/mcs/class/System.Windows.Forms/bin/Xamarin-Release/tr/System.Windows.Forms.resources.dll \
+	/root-assembly:/Users/matthew/Projects/bin/Xamarin-Release/FormsTestApp.exe \
+	/sdkroot:/Applications/Xcode.app/Contents/Developer \
+	--cache:/Users/matthew/Projects/64Bit/mac-playground/FormsTestApp/obj/Xamarin-Release/mmp-cache \
+	@/Users/matthew/Projects/64Bit/mac-playground/FormsTestApp/obj/Xamarin-Release/response-file.rsp \
+	--registrar:dynamic \
+	--marshal-objectivec-exceptions=throwmanagedexception \

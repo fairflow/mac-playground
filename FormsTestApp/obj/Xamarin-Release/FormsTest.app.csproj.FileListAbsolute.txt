@@ -1,0 +1,13 @@
+/Users/matthew/Projects/bin/Xamarin-Release/car.png
+/Users/matthew/Projects/bin/Xamarin-Release/Resources/Hotmail_Small.png
+/Users/matthew/Projects/bin/Xamarin-Release/Resources/Hotmail.png
+/Users/matthew/Projects/bin/Xamarin-Release/Resources/iCloud_Small.png
+/Users/matthew/Projects/bin/Xamarin-Release/Resources/iCloud.png
+/Users/matthew/Projects/bin/Xamarin-Release/FormsTestApp.exe
+/Users/matthew/Projects/64Bit/mac-playground/FormsTestApp/obj/Xamarin-Release/actool/_PartialAppManifest.items
+/Users/matthew/Projects/64Bit/mac-playground/FormsTestApp/obj/Xamarin-Release/actool/_BundleResourceWithLogicalName.items
+/Users/matthew/Projects/64Bit/mac-playground/FormsTestApp/obj/Xamarin-Release/FormsTest.app.csprojAssemblyReference.cache
+/Users/matthew/Projects/64Bit/mac-playground/FormsTestApp/obj/Xamarin-Release/App.ico
+/Users/matthew/Projects/64Bit/mac-playground/FormsTestApp/obj/Xamarin-Release/car.png
+/Users/matthew/Projects/64Bit/mac-playground/FormsTestApp/obj/Xamarin-Release/FormsTest.app.csproj.CopyComplete
+/Users/matthew/Projects/64Bit/mac-playground/FormsTestApp/obj/Xamarin-Release/FormsTestApp.exe
