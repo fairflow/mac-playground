@@ -1,4 +1,5 @@
 # mac-playground
+Forked by fairflow to preserve my local configuration; if you wish to contribute to mac-playground itself go to emclient/mac-playground
 
 This is a mix of code that was developed during our effort to port eM Client to macOS. It is a hodgepodge of various projects and experiments. The notable ones are listed below. The code is released as-is.
 
