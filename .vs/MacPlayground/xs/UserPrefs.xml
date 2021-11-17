@@ -1,28 +1,26 @@
 ﻿<Properties StartupConfiguration="{7777BF55-B639-4078-BDD4-A1B541B89274}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="sysdrawing-coregraphics/System.Drawing.Mac/Extensions.cs">
     <Files>
-      <File FileName="FormsTest/Forms/MainForm.cs" Line="134" Column="7" />
-      <File FileName="mono/mcs/class/System.Windows.Forms/System.Windows.Forms.CocoaInternal/XplatUICocoa.cs" Line="420" Column="1" />
-      <File FileName="mono/mcs/class/System.Windows.Forms/System.Windows.Forms.CocoaInternal/XplatUICocoa.cs" Line="420" Column="1" />
-      <File FileName="FormsTest/Controls/ControlStatusBar.cs" Line="1" Column="1" />
+      <File FileName="FormsTestApp/Program.cs" Line="2" Column="1" />
+      <File FileName="FormsTest/MyTextBox.cs" Line="1" Column="1" />
+      <File FileName="sysdrawing-coregraphics/System.Drawing.Drawing2D/GraphicsContainer.cs" Line="1" Column="1" />
+      <File FileName="sysdrawing-coregraphics/System.Drawing.Drawing2D/GraphicsPath.cs" Line="1" Column="1" />
+      <File FileName="sysdrawing-coregraphics/System.Drawing.Mac/Extensions.cs" Line="17" Column="3" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="MacPlayground" expanded="True">
-            <Node name="FormsTest" expanded="True">
-              <Node name="References" expanded="True" />
-              <Node name="Controls" expanded="True" />
-              <Node name="Forms" expanded="True" />
-              <Node name="Properties" expanded="True" />
-              <Node name="Resources" expanded="True" />
-            </Node>
-            <Node name="FormsTest.app" expanded="True">
-              <Node name="GettingStarted" selected="True" />
-              <Node name="References" expanded="True" />
+          <Node name="MacPlayground" expanded="True" selected="True">
+            <Node name="FormsTest" expanded="True" />
+            <Node name="FormsTest.app" expanded="True" />
+            <Node name="System.Drawing (CoreGraphics)" expanded="True">
+              <Node name="System.Drawing.Drawing2D" expanded="True" />
+              <Node name="System.Drawing.Mac" expanded="True" />
             </Node>
             <Node name="System.Windows.Forms-net_4_5" expanded="True">
-              <Node name="System.Windows.Forms.CocoaInternal" expanded="True" />
+              <Node name="System.Windows.Forms.Layout" expanded="True" />
+              <Node name="System.Windows.Forms.PropertyGridInternal" expanded="True" />
+              <Node name="System.Windows.Forms.WebBrowserDialogs" expanded="True" />
             </Node>
           </Node>
         </State>

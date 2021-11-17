@@ -7,9 +7,10 @@
 /Users/matthew/Projects/bin/Xamarin - Debug/FormsTestApp.pdb
 /Users/matthew/Projects/64Bit/mac-playground/FormsTestApp/obj/Xamarin - Debug/actool/_PartialAppManifest.items
 /Users/matthew/Projects/64Bit/mac-playground/FormsTestApp/obj/Xamarin - Debug/actool/_BundleResourceWithLogicalName.items
-/Users/matthew/Projects/64Bit/mac-playground/FormsTestApp/obj/Xamarin - Debug/FormsTest.app.csprojAssemblyReference.cache
-/Users/matthew/Projects/64Bit/mac-playground/FormsTestApp/obj/Xamarin - Debug/App.ico
-/Users/matthew/Projects/64Bit/mac-playground/FormsTestApp/obj/Xamarin - Debug/car.png
 /Users/matthew/Projects/64Bit/mac-playground/FormsTestApp/obj/Xamarin - Debug/FormsTest.app.csproj.CopyComplete
 /Users/matthew/Projects/64Bit/mac-playground/FormsTestApp/obj/Xamarin - Debug/FormsTestApp.exe
 /Users/matthew/Projects/64Bit/mac-playground/FormsTestApp/obj/Xamarin - Debug/FormsTestApp.pdb
+/Users/matthew/Projects/64Bit/mac-playground/FormsTestApp/obj/Xamarin - Debug/coremlc/_PartialAppManifest.items
+/Users/matthew/Projects/64Bit/mac-playground/FormsTestApp/obj/Xamarin - Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/matthew/Projects/64Bit/mac-playground/FormsTestApp/obj/Xamarin - Debug/FormsTest.app.csproj.AssemblyReference.cache
+/Users/matthew/Projects/64Bit/mac-playground/FormsTestApp/obj/Xamarin - Debug/FormsTest.app.csproj.CoreCompileInputs.cache
